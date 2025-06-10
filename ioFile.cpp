@@ -42,6 +42,7 @@ int main(){
 
         }
         //tutup file tersebut setelah selesai
+        infile.close();
     }
     
 }
