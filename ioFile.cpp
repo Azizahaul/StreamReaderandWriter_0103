@@ -5,4 +5,8 @@ using namespace std;
 
 int main(){
     string baris;
+
+    //membuka file data dalam mode menulis.
+    ofstream outfile;
+    
 }
